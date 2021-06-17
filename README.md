@@ -1,2 +1,2 @@
 # rota_planlama
-En kısa yol algoritması ile web tabanlı rota planlama uygulaması
+Lisans bitirme projesi kapsamında  yapılan en kısa yol algoritması ile web tabanlı rota planlama uygulaması
